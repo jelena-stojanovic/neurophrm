@@ -1,0 +1,1 @@
+Adapter for using in Rapid Miner neural networks designed in Neuroph Studio.
